@@ -1,0 +1,7 @@
+[mcp_servers.file-tools]
+command = "node"
+args = ["D:\\programs\\neww\\codex-file-tools\\server.mjs"]
+
+[mcp_servers.workflow]
+command = "node"
+args = ["D:\\programs\\neww\\codex-workflow\\server.mjs"]

@@ -1,0 +1,9 @@
+{
+  "name": "codex-file-tools",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "diff": "^7.0.0"
+  }
+}
